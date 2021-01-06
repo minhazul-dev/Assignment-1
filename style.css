@@ -187,3 +187,15 @@ text-align: center;
     font-size:20px;
     color: pink;
 }
+.bar{
+    width:100%;
+}
+.bar-2{
+    width:50%;
+}
+
+.bar-3{
+    width:20%;
+    margin-top:1%;
+  
+}
