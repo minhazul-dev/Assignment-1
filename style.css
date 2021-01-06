@@ -64,10 +64,10 @@ section{
 
 
 .box1{
-    height: 530px;
-    width: 550px;
+    height: 440px;
+    width: 400px;
     /* border: 1px solid blue; */
-    margin-left: 6%;
+    margin-left: 8%;
     float: left;
     /* background-image: linear-gradient(black, white); */
     border-radius: 55px;
@@ -77,8 +77,8 @@ section{
 
 
 .img-box img{
-    height: 350px;
-    width: 500px;  
+    height: 250px;
+    width: 350px;  
 }
 
 .img-box{
